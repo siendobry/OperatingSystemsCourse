@@ -1,0 +1,362 @@
+Static flagless:
+
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.001645
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.001772
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+
+
+> Shared flagless:
+
+> Real time: 0.000003
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.002599
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.002508
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000003
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+
+
+> Dynamic flagless:
+
+> Real time: 0.000007
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.002711
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.002866
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000003
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000004
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+
+
+> Static with -O0 flag:
+
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.003874
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.003127
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+
+
+> Shared with -O0 flag:
+
+> Real time: 0.000009
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.002251
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.002094
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000005
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000003
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000009
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000003
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000003
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+
+
+> Dynamic with -O0 flag:
+
+> Real time: 0.000007
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.004410
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.003779
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000004
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+
+
+> Static with -Os flag:
+
+> Real time: 0.000003
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.002870
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.003246
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000003
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+
+
+> Shared with -Os flag:
+
+> Real time: 0.000004
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.002085
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.002921
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000003
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000005
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+
+
+> Dynamic with -Os flag:
+
+> Real time: 0.000007
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.002493
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.002273
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000003
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+
+
+> Static with -O2 flag:
+
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.002345
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.001491
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+
+
+> Shared with -O2 flag:
+
+> Real time: 0.000004
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.001599
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.001719
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000003
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+
+
+> Dynamic with -O2 flag:
+
+> Real time: 0.000005
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.002364
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.001707
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000003
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+
+
+
+Jak latwo zauwazyc, najwiecej czasu zajmuja programowi wywolania polecenia wc na przekazanym pliku. Czasy wykonania nieznacznie roznia sie w zaleznosci od rodzaju biblioteki, oraz uzytej flagi optymalizacji - programy wykonuja sie bardzo szybko (jednostka przy podanych liczbach jest sekunda). 

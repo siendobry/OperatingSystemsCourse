@@ -1,0 +1,92 @@
+Static:
+
+> Real time: 0.000003
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.003878
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.003757
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+
+
+> Shared:
+
+> Real time: 0.000007
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.003746
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.003164
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000003
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+
+
+> Dynamic:
+
+> Real time: 0.000004
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.002025
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.002716
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+
+
+
+Najdluzsza operacja jest zdecydowanie wykonanie polecenia wc za pomoca funkcji system(). Najszybciej wykonanal sie program korzystajacy z biblioteki dynamicznej, nastepny pod wzgledem czasu byl program korzystajacy z biblioteki wspoldzielonej, a na koncy uplasowal sie program korzystajacy z biblioteki statycznej.

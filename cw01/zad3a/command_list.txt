@@ -1,0 +1,9 @@
+init 2
+count ../zad1/wclib.c
+count ../zad2/wcrepl.c
+show 0
+show 1
+delete 0
+delete 1
+destroy
+exit

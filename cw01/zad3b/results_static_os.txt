@@ -1,0 +1,27 @@
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.001837
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.001469
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  128  378 3477 ../zad1/wclib.c
+Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+>  185  568 5684 ../zad2/wcrepl.c
+Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000002
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> Real time: 0.000001
+CPU time in user mode: 0.000000
+CPU time in system mode: 0.000000
+> 
